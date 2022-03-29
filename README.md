@@ -50,6 +50,10 @@
 
 - [226.翻转二叉树.js](https://github.com/wangyx233/topHot/tree/master/tree/226.翻转二叉树.js)
 
+- [450.删除二叉搜索树中的节点.js](https://github.com/wangyx233/topHot/tree/master/tree/450.删除二叉搜索树中的节点.js)
+
+- [701.二叉搜索树中的插入操作.js](https://github.com/wangyx233/topHot/tree/master/tree/701.二叉搜索树中的插入操作.js)
+
 - [94.二叉树的中序遍历.js](https://github.com/wangyx233/topHot/tree/master/tree/94.二叉树的中序遍历.js)
 
 ## trie
