@@ -44,6 +44,8 @@
 
 - [102.二叉树的层序遍历.js](https://github.com/wangyx233/topHot/tree/master/tree/102.二叉树的层序遍历.js)
 
+- [108.将有序数组转换为二叉搜索树.js](https://github.com/wangyx233/topHot/tree/master/tree/108.将有序数组转换为二叉搜索树.js)
+
 - [144.二叉树的前序遍历.js](https://github.com/wangyx233/topHot/tree/master/tree/144.二叉树的前序遍历.js)
 
 - [145.二叉树的后序遍历.js](https://github.com/wangyx233/topHot/tree/master/tree/145.二叉树的后序遍历.js)
@@ -55,6 +57,8 @@
 - [701.二叉搜索树中的插入操作.js](https://github.com/wangyx233/topHot/tree/master/tree/701.二叉搜索树中的插入操作.js)
 
 - [94.二叉树的中序遍历.js](https://github.com/wangyx233/topHot/tree/master/tree/94.二叉树的中序遍历.js)
+
+- [98.验证二叉搜索树.js](https://github.com/wangyx233/topHot/tree/master/tree/98.验证二叉搜索树.js)
 
 ## trie
 
