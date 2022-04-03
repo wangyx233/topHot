@@ -68,6 +68,8 @@
 
 - [15.三数之和.js](https://github.com/wangyx233/topHot/tree/master/two-pointers/15.三数之和.js)
 
+- [42.接雨水.js](https://github.com/wangyx233/topHot/tree/master/two-pointers/42.接雨水.js)
+
 - [88.合并两个有序数组.js](https://github.com/wangyx233/topHot/tree/master/two-pointers/88.合并两个有序数组.js)
 
 ## 总结
