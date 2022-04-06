@@ -32,9 +32,15 @@
 
 - [206.反转链表.js](https://github.com/wangyx233/topHot/tree/master/linked-list/206.反转链表.js)
 
+## sliding-window
+
+- [3.无重复字符的最长子串.js](https://github.com/wangyx233/topHot/tree/master/sliding-window/3.无重复字符的最长子串.js)
+
 ## string
 
 - [125.验证回文串.js](https://github.com/wangyx233/topHot/tree/master/string/125.验证回文串.js)
+
+- [165.比较版本号.js](https://github.com/wangyx233/topHot/tree/master/string/165.比较版本号.js)
 
 - [680.验证回文字符串-ⅱ.js](https://github.com/wangyx233/topHot/tree/master/string/680.验证回文字符串-ⅱ.js)
 
