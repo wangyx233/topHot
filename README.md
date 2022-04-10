@@ -14,6 +14,10 @@
 
 - [78.子集.js](https://github.com/wangyx233/topHot/tree/master/backtracking/78.子集.js)
 
+## binary-search
+
+- [704.二分查找.js](https://github.com/wangyx233/topHot/tree/master/binary-search/704.二分查找.js)
+
 ## dynamic-programming
 
 - [300.最长递增子序列.js](https://github.com/wangyx233/topHot/tree/master/dynamic-programming/300.最长递增子序列.js)
@@ -36,11 +40,19 @@
 
 - [3.无重复字符的最长子串.js](https://github.com/wangyx233/topHot/tree/master/sliding-window/3.无重复字符的最长子串.js)
 
+## stack
+
+- [144.二叉树的前序遍历.js](https://github.com/wangyx233/topHot/tree/master/stack/144.二叉树的前序遍历.js)
+
+- [94.二叉树的中序遍历.js](https://github.com/wangyx233/topHot/tree/master/stack/94.二叉树的中序遍历.js)
+
 ## string
 
 - [125.验证回文串.js](https://github.com/wangyx233/topHot/tree/master/string/125.验证回文串.js)
 
 - [165.比较版本号.js](https://github.com/wangyx233/topHot/tree/master/string/165.比较版本号.js)
+
+- [415.字符串相加.js](https://github.com/wangyx233/topHot/tree/master/string/415.字符串相加.js)
 
 - [680.验证回文字符串-ⅱ.js](https://github.com/wangyx233/topHot/tree/master/string/680.验证回文字符串-ⅱ.js)
 
@@ -49,6 +61,8 @@
 ## tree
 
 - [102.二叉树的层序遍历.js](https://github.com/wangyx233/topHot/tree/master/tree/102.二叉树的层序遍历.js)
+
+- [107.二叉树的层序遍历-ii.js](https://github.com/wangyx233/topHot/tree/master/tree/107.二叉树的层序遍历-ii.js)
 
 - [108.将有序数组转换为二叉搜索树.js](https://github.com/wangyx233/topHot/tree/master/tree/108.将有序数组转换为二叉搜索树.js)
 
@@ -59,6 +73,8 @@
 - [226.翻转二叉树.js](https://github.com/wangyx233/topHot/tree/master/tree/226.翻转二叉树.js)
 
 - [450.删除二叉搜索树中的节点.js](https://github.com/wangyx233/topHot/tree/master/tree/450.删除二叉搜索树中的节点.js)
+
+- [509.斐波那契数.js](https://github.com/wangyx233/topHot/tree/master/tree/509.斐波那契数.js)
 
 - [701.二叉搜索树中的插入操作.js](https://github.com/wangyx233/topHot/tree/master/tree/701.二叉搜索树中的插入操作.js)
 
