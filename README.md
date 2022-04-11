@@ -28,6 +28,8 @@
 
 - [1.两数之和.js](https://github.com/wangyx233/topHot/tree/master/hash-table/1.两数之和.js)
 
+- [349.两个数组的交集.js](https://github.com/wangyx233/topHot/tree/master/hash-table/349.两个数组的交集.js)
+
 ## linked-list
 
 - [141.环形链表.js](https://github.com/wangyx233/topHot/tree/master/linked-list/141.环形链表.js)
@@ -35,6 +37,10 @@
 - [142.环形链表-ii.js](https://github.com/wangyx233/topHot/tree/master/linked-list/142.环形链表-ii.js)
 
 - [206.反转链表.js](https://github.com/wangyx233/topHot/tree/master/linked-list/206.反转链表.js)
+
+## math
+
+- [9.回文数.js](https://github.com/wangyx233/topHot/tree/master/math/9.回文数.js)
 
 ## sliding-window
 
@@ -89,6 +95,8 @@
 ## two-pointers
 
 - [15.三数之和.js](https://github.com/wangyx233/topHot/tree/master/two-pointers/15.三数之和.js)
+
+- [344.反转字符串.js](https://github.com/wangyx233/topHot/tree/master/two-pointers/344.反转字符串.js)
 
 - [42.接雨水.js](https://github.com/wangyx233/topHot/tree/master/two-pointers/42.接雨水.js)
 
