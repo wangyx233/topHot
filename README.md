@@ -78,6 +78,8 @@
 
 - [226.翻转二叉树.js](https://github.com/wangyx233/topHot/tree/master/tree/226.翻转二叉树.js)
 
+- [297.二叉树的序列化与反序列化.js](https://github.com/wangyx233/topHot/tree/master/tree/297.二叉树的序列化与反序列化.js)
+
 - [450.删除二叉搜索树中的节点.js](https://github.com/wangyx233/topHot/tree/master/tree/450.删除二叉搜索树中的节点.js)
 
 - [509.斐波那契数.js](https://github.com/wangyx233/topHot/tree/master/tree/509.斐波那契数.js)
