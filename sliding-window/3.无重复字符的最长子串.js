@@ -9,8 +9,9 @@
  * @param {string} s
  * @return {number}
  */
-var lengthOfLongestSubstring = function(s) {
-  let res = 0, n = s.length
+var lengthOfLongestSubstring = function (s) {
+  let res = 0,
+    n = s.length
   let map = new Map()
   let start = 0
   for (let end = 0; end < n; end++) {
@@ -24,4 +25,3 @@ var lengthOfLongestSubstring = function(s) {
   return res
 };
 // @lc code=end
-
