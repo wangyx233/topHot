@@ -9,6 +9,10 @@
  * @param {number[]} nums
  * @return {number[][]}
  */
+/**
+ * 1. 排序 
+ * 2. 一层遍历内，对撞数据判断，然后去除重复
+ */
 var threeSum = function (nums) {
   const len = nums.length
   // sort

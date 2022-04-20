@@ -36,6 +36,8 @@
 
 - [142.环形链表-ii.js](https://github.com/wangyx233/topHot/tree/master/linked-list/142.环形链表-ii.js)
 
+- [19.删除链表的倒数第-n-个结点.js](https://github.com/wangyx233/topHot/tree/master/linked-list/19.删除链表的倒数第-n-个结点.js)
+
 - [206.反转链表.js](https://github.com/wangyx233/topHot/tree/master/linked-list/206.反转链表.js)
 
 - [25.k-个一组翻转链表.js](https://github.com/wangyx233/topHot/tree/master/linked-list/25.k-个一组翻转链表.js)
@@ -56,9 +58,13 @@
 
 ## stack
 
+- [1047.删除字符串中的所有相邻重复项.js](https://github.com/wangyx233/topHot/tree/master/stack/1047.删除字符串中的所有相邻重复项.js)
+
 - [144.二叉树的前序遍历.js](https://github.com/wangyx233/topHot/tree/master/stack/144.二叉树的前序遍历.js)
 
 - [145.二叉树的后序遍历.js](https://github.com/wangyx233/topHot/tree/master/stack/145.二叉树的后序遍历.js)
+
+- [20.有效的括号.js](https://github.com/wangyx233/topHot/tree/master/stack/20.有效的括号.js)
 
 - [94.二叉树的中序遍历.js](https://github.com/wangyx233/topHot/tree/master/stack/94.二叉树的中序遍历.js)
 
