@@ -2,6 +2,8 @@
 
 ## array
 
+- [209.长度最小的子数组.js](https://github.com/wangyx233/topHot/tree/master/array/209.长度最小的子数组.js)
+
 - [56.合并区间.js](https://github.com/wangyx233/topHot/tree/master/array/56.合并区间.js)
 
 - [57.插入区间.js](https://github.com/wangyx233/topHot/tree/master/array/57.插入区间.js)
@@ -18,11 +20,21 @@
 
 - [704.二分查找.js](https://github.com/wangyx233/topHot/tree/master/binary-search/704.二分查找.js)
 
+- [74.搜索二维矩阵.js](https://github.com/wangyx233/topHot/tree/master/binary-search/74.搜索二维矩阵.js)
+
 ## dynamic-programming
 
 - [300.最长递增子序列.js](https://github.com/wangyx233/topHot/tree/master/dynamic-programming/300.最长递增子序列.js)
 
+- [322.零钱兑换.js](https://github.com/wangyx233/topHot/tree/master/dynamic-programming/322.零钱兑换.js)
+
+- [53.最大子数组和.js](https://github.com/wangyx233/topHot/tree/master/dynamic-programming/53.最大子数组和.js)
+
 - [70.爬楼梯.js](https://github.com/wangyx233/topHot/tree/master/dynamic-programming/70.爬楼梯.js)
+
+## greedy
+
+- [455.分发饼干.js](https://github.com/wangyx233/topHot/tree/master/greedy/455.分发饼干.js)
 
 ## hash-table
 
@@ -39,6 +51,8 @@
 - [19.删除链表的倒数第-n-个结点.js](https://github.com/wangyx233/topHot/tree/master/linked-list/19.删除链表的倒数第-n-个结点.js)
 
 - [206.反转链表.js](https://github.com/wangyx233/topHot/tree/master/linked-list/206.反转链表.js)
+
+- [21.合并两个有序链表.js](https://github.com/wangyx233/topHot/tree/master/linked-list/21.合并两个有序链表.js)
 
 - [25.k-个一组翻转链表.js](https://github.com/wangyx233/topHot/tree/master/linked-list/25.k-个一组翻转链表.js)
 
@@ -117,6 +131,10 @@
 ## two-pointers
 
 - [15.三数之和.js](https://github.com/wangyx233/topHot/tree/master/two-pointers/15.三数之和.js)
+
+- [167.两数之和-ii-输入有序数组.js](https://github.com/wangyx233/topHot/tree/master/two-pointers/167.两数之和-ii-输入有序数组.js)
+
+- [18.四数之和.js](https://github.com/wangyx233/topHot/tree/master/two-pointers/18.四数之和.js)
 
 - [283.移动零.js](https://github.com/wangyx233/topHot/tree/master/two-pointers/283.移动零.js)
 
