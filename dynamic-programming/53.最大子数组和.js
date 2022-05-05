@@ -10,18 +10,16 @@
  * @return {number}
  */
 var maxSubArray = function (nums) {
-  let len = nums.length
-  let dp = []
-  dp[0] = nums[0]
-  for (let i = 1; i < len; i++) {
-    if (dp[i - 1] > 0) {
-      dp[i] = dp[i - 1] + nums[i];
+  let res = nums[0]
+  let sum = 0
+  for (let i = 0; i < nums.length; i++) {
+    if (sum > 0) {
+      sum = sum + nums[i]
     } else {
-      dp[i] = nums[i];
+      sum = nums[i]
     }
+    res = Math.max(res, sum)
   }
-
-  return dp.reduce((max, elem) => max = Math.max(max, elem), dp[0])
-
+  return res
 };
 // @lc code=end
